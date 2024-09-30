@@ -27,12 +27,6 @@ I'm currently working on a research project in Computer Vision as an Undergradua
 - [Project 1](https://github.com/yourusername/project1): Brief description of the project.
 - [Project 2](https://github.com/yourusername/project2): Brief description of the project. -->
 
-## 📫 Let's Connect
-
-- [LinkedIn](https://www.linkedin.com/in/srinjoy-dutta-797817224/)
-<!-- - Portfolio: [Your Portfolio](https://yourportfolio.com) -->
-- [Twitter](https://twitter.com/srinjoy_03)
-
 Feel free to reach out and connect! 😊
 
 
