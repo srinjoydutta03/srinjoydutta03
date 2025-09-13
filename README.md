@@ -15,4 +15,6 @@ I was recently a part of Linux Foundation Mentorship (LFX'25) where I dived deep
 - **Multimodal AI Research** (Recently authored a paper accepted at **MICCAI 2025** 🎉)
 - **End-to-End AI Systems:** Training, optimization (LoRA, DoRA, quantization), and deployment
 - **GPU Programming** + **DevOps Essentials**
-- **Software Supply Chain Security**: Contributed to the Repository Service for TUF as LFX Mentee to secure software supply chain 
+- **Software Supply Chain Security**: Contributed to the Repository Service for TUF as LFX Mentee to secure software supply chain
+
+![Badge](https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2Fsrinjoydutta03&label=Visitor+count&icon=graph-up&color=%23198754&message=&style=for-the-badge&tz=UTC)
